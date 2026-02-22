@@ -19,7 +19,7 @@ I am a self-taught developer with 2+ years of experience building high-performan
 ### 📫 Let's Connect
 - **Portfolio**: [developerchowk.com](https://developerchowk.com)
 - **Instagram**: [@developerchowk](https://instagram.com/thedeveloperchowk)
-- **LinkedIn**: [[profile](https://www.linkedin.com/in/sanjay-kumar-4609531b8/)]
+- **LinkedIn**: [profile](https://www.linkedin.com/in/sanjay-kumar-4609531b8/)
 
 ---
 
