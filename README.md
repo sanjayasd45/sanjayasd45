@@ -1,34 +1,26 @@
 # Hi there, I'm Sanjay! 👋 
-### Founder of [Developer Chowk](https://developerchowk.com) | MERN Stack & Next.js Expert
+### Full-Stack MERN & Next.js Developer
 
-I am a self-taught Full-Stack Developer with over 2 years of experience building scalable web applications and SaaS products. My focus is on turning complex business problems into elegant, high-performance digital solutions.
+I am a self-taught developer with 2+ years of experience building high-performance web applications. I specialize in creating custom digital solutions that help businesses automate their operations and improve their online presence.
 
 ---
 
-### 🚀 What I'm Working On
-- **Developer Chowk**: Building a digital agency focused on empowering businesses with custom software.
-- **Gym Management SaaS**: A comprehensive platform for member tracking, automated billing, and staff management.
-- **ExpenseTracker**: A utility-first app to help individuals and small businesses manage their cash flow.
+### 🛠️ What I’m Building
+- **[Developer Chowk](https://developerchowk.com)**: My professional hub for providing web development and software services.
+- **Gym Management System**: A full-stack SaaS project for handling memberships, billing, and staff tracking.
+- **Business Utility Tools**: Building custom dashboards to streamline daily workflows.
 
-### 🛠️ My Tech Stack
+### 💻 Technical Expertise
 - **Frontend**: Next.js (App Router), React.js, Tailwind CSS, Framer Motion
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL, Firebase
-- **Mobile**: Flutter (Cross-platform app development)
-- **DevOps**: Oracle Cloud VM, VPS Hosting, Docker
+- **Infrastructure**: Oracle Cloud VM, VPS Hosting, Deployment & Maintenance
 
-### 📈 Featured Projects
-- **[Charm Salons](https://charm-salons.duckdns.org)**: A full-featured makeup service platform with custom booking logic.
-- **HR & Payroll System**: An internal tool designed to automate salary disbursements and employee records.
-
-### 📫 Connect With Me
-- **Website**: [developerchowk.com](https://developerchowk.com)
-- **Instagram**: [@developerchowk](https://instagram.com/developerchowk)
-- **LinkedIn**: [Your LinkedIn Link]
-- **Email**: [Your Professional Email]
+### 📫 Let's Connect
+- **Portfolio**: [developerchowk.com](https://developerchowk.com)
+- **Instagram**: [@developerchowk](https://instagram.com/thedeveloperchowk)
+- **LinkedIn**: [[profile](https://www.linkedin.com/in/sanjay-kumar-4609531b8/)]
 
 ---
 
-*“Code is not just about logic; it’s about creating value for people.”*
-
-![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjayasd45&show_icons=true&theme=tokyonight)
+*“Turning complex business problems into simple, scalable code.”*
